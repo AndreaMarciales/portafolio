@@ -9,6 +9,7 @@ import meter3 from "../assets/img/javascript.png";
 import meter5 from "../assets/img/mysql.png";
 import meter6 from "../assets/img/mongo-db.png";
 import meter7 from "../assets/img/git.png";
+import meter8 from "../assets/img/nodejs.png";
 import colorSharp from "../assets/img/color-sharp.png";
 
 {/**
@@ -68,6 +69,13 @@ export const Skills = () => {
                 <div className="item">
                   <img src={meter4} />
                   <h5>REACT</h5>
+                  <div className="item"></div>
+                </div>
+
+                
+                <div className="item">
+                  <img src={meter8} />
+                  <h5>NODE.JS</h5>
                   <div className="item"></div>
                 </div>
                 
