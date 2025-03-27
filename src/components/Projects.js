@@ -47,7 +47,7 @@ export const Projects = () => {
       imgUrl: projImg4,
       button: {
         text: "View Project",
-        link: "https://drive.google.com/file/d/1mjj-gSB4dDJb8PwAibBcZosfsLoJOzkm/view?usp=sharing",
+        link: "http://coa.lovestoblog.com/",
       },
     },
     {
